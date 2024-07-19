@@ -23,4 +23,16 @@ Este projeto é um sistema simples de cobrança e gerenciamento de estoque, dese
 
 1. Clone este repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-cobranca-estoque.git
+   git clone https://github.com/MontaltoMa/Caixa_de_Mercado/blob/main/Main.py
+
+### Explicação dos Seções
+
+- **Descrição do Projeto**: Explica o que o projeto faz e quais são suas principais funcionalidades.
+- **Requisitos**: Lista as necessidades para executar o projeto.
+- **Instalação**: Passos para configurar o projeto em um ambiente local.
+- **Uso**: Orientações sobre como utilizar o sistema, tanto para admins quanto para clientes.
+- **Contribuição**: Instruções para contribuir com o projeto.
+- **Licença**: Informação sobre a licença do projeto.
+- **Contato**: Informações de contato para dúvidas ou sugestões.
+
+Você pode personalizar este README conforme necessário para se adequar melhor ao seu projeto e aos seus detalhes de contato.
